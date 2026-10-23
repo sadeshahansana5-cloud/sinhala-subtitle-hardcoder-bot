@@ -1,0 +1,5 @@
+aiohttp>=3.9,<4
+Pyrogram>=2.0,<3
+# Without TgCrypto Pyrogram encrypts in pure Python (about 4 MB/s). With it, transfers are several times faster.
+TgCrypto>=1.2.5
+uvloop>=0.19; sys_platform != "win32"
