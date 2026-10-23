@@ -14,10 +14,10 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LINK_HERE"><img src="https://img.shields.io/badge/Open%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Open Bot"></a>
-  <a href="YOUR_LINK_HERE"><img src="https://img.shields.io/badge/Updates%20Channel-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Updates Channel"></a>
-  <a href="YOUR_LINK_HERE"><img src="https://img.shields.io/badge/Support%20Group-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Support Group"></a>
-  <a href="YOUR_LINK_HERE"><img src="https://img.shields.io/badge/Contact%20Developer-E4405F?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact Developer"></a>
+  <a href="https://t.me/Handbrake_Hardcode_bot"><img src="https://img.shields.io/badge/Open%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Open Bot"></a>
+  <a href="https://t.me/shprofilterupdate"><img src="https://img.shields.io/badge/Updates%20Channel-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Updates Channel"></a>
+  <a href="https://t.me/cinesubz_movie_chat"><img src="https://img.shields.io/badge/Support%20Group-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Support Group"></a>
+  <a href="https://t.me/Sadesha_Hansana"><img src="https://img.shields.io/badge/Contact%20Developer-E4405F?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact Developer"></a>
 </p>
 
 <p align="center">
