@@ -443,10 +443,10 @@ Most timers, limits and switches live in `config.py`. Sticker timers can also be
 </p>
 
 <p align="center">
-  <a href="YOUR_LINK_HERE"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://t.me/Sadesha_Hansana"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="YOUR_LINK_HERE"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="YOUR_LINK_HERE"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"></a>
-  <a href="YOUR_LINK_HERE"><img src="https://img.shields.io/badge/Updates%20Channel-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Updates Channel"></a>
+  <a href="https://t.me/shprofilterupdate"><img src="https://img.shields.io/badge/Updates%20Channel-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Updates Channel"></a>
 </p>
 
 ---
