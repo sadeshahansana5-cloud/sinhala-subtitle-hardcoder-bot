@@ -1,0 +1,43 @@
+# ---------- secrets (NEVER commit) ----------
+.env
+*.session
+*.session-journal
+
+# ---------- your private bot data ----------
+# your sticker file_ids + your Telegram ID (they only work with your own bot)
+default_stickers.json
+sticker_store.json
+sticker_store.tmp
+access_db.json
+access_db.tmp
+webapp_control.json
+font_settings.json
+style_settings.json
+watermark_settings.json
+*.sqlite3
+*.sqlite3-*
+*.db
+
+# ---------- runtime folders and logs ----------
+bot.log
+*.log
+downloads/
+outputs/
+library/
+temp/
+
+# ---------- fonts (check each font's license before sharing it) ----------
+fonts/*
+!fonts/.gitkeep
+
+# ---------- python ----------
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+
+# ---------- old report that contains outdated hashes ----------
+IMPLEMENTATION_REPORT.md
